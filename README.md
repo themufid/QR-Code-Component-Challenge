@@ -19,7 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.\images\image-qr-code.png)
+<img width="304" alt="image-qr-codes" src="https://user-images.githubusercontent.com/111524042/215054308-1c28bf5f-f45f-48da-800f-61ac2326ec94.png">
+
 
 ### Links
 
